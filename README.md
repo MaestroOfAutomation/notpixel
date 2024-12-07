@@ -7,6 +7,8 @@
 SDK: https://centrifugal.dev/docs/transports/client_sdk
 
 Установка зависимости SDK:
+```
 pip install centrifuge-python
 pip install playwright
 playwright install
+```
